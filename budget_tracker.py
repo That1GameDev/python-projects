@@ -1,3 +1,13 @@
+"""
+Budget Tracker
+Tracks income and expenses with a running transaction history.
+Data is saved to and loaded from a JSON file (budget.json), and
+the script calculates the current balance from all logged transactions.
+"""
+
+
+
+
 import json
 import os
 

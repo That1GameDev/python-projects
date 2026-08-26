@@ -1,3 +1,13 @@
+"""
+Number Guessing Game
+An interactive game where the user guesses a randomly generated number.
+Uses conditional logic and loops to handle repeated input and detect
+win/lose states, with handling for invalid or out-of-range guesses.
+""""""
+
+
+
+
 import random
 
 def get_random_number():

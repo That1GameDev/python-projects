@@ -1,3 +1,12 @@
+"""
+Calculator
+A command-line calculator that handles core arithmetic operations
+(addition, subtraction, multiplication, division) with input
+validation to prevent crashes on invalid entries.
+"""
+
+
+
 # My Python Projects 
 
 

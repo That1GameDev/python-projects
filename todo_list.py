@@ -1,3 +1,11 @@
+"""
+To-Do List Application
+A command-line to-do list app that lets the user add, update, and
+delete tasks. Task data is saved to and loaded from a JSON file
+(tasks.json), so the list persists between sessions.
+"""
+
+
 import json
 import os
 
